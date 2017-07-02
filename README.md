@@ -5,3 +5,7 @@ This is a test repo
 * First item in the list
 * Second item in the list
 * Third item in the list
+a<-available.packages()
+
+
+install.packages ("slidify")
